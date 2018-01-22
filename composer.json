@@ -2,7 +2,7 @@
     "name": "loveshenshen/shen-module",
     "description": "only for quik to generator  admin module  model  and crud",
     "type": "library",
-    "keywords": ["html"],
+    "keywords": ["module"],
     "homepage": "http://github.com/",
     "license": "LGPL",
     "authors": [
