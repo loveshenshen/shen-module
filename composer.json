@@ -3,7 +3,7 @@
     "description": "only for quik to generator  admin module  model  and crud",
     "type": "library",
     "keywords": ["module"],
-    "homepage": "http://github.com/",
+    "homepage": "https://github.com/loveshenshen/shen-module",
     "license": "LGPL",
     "authors": [
         {
